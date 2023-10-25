@@ -1,0 +1,13 @@
+{
+  "name": "@dylan/subdomain",
+  "version": "0.1.0",
+  "description": "Middleware for Dylan which enables distinct subdomain subapps.",
+  "license": "MIT",
+  "keywords": [
+    "middleware",
+    "dylan"
+  ],
+  "repository": "shanebo/subdomain",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "main": "./index"
+}
